@@ -8,7 +8,7 @@
     <li><b>Multiauth role</b></li>
     <li><b>Booking System</b> (house booking)</li>
     <li>Google Login using Socialite Package</li>
-    <li><b>SMS</b> System (When booking is confirmed by admin then confirmation sms sends to renter</li>
+    <li><b>SMS</b> System (When booking is confirmed by admin then confirmation sms sends to renter)</li>
     <li>Social media sharing (available house)</li>
     <li>Price Filter (search a house using price range)</li>
     <li>Admin, Landlord, Renter Panel </li>
@@ -17,8 +17,8 @@
     <li>Booking history</li>
     <li>Cancel Booking Request</li>
     <li>Awesome overview show in <b>Dashboard</b></li>
-    <li>Searching System (By rooms, toilet, rent, area.)</li>
-    <li>Category wise data handle</li>
+    <li>Searching System (search by rooms, toilet, rent, area.)</li>
+    <li>Category wise data handling</li>
     <li><b>Login/Register</b></li>
     <li>Update profile information</li>
 </ul>
