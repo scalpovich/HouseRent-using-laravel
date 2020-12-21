@@ -1,11 +1,11 @@
-##  It's a web-based platform where anyone can rent house within a few seconds whereas Landlords can post about their empty houses.
+##  It's a web-based platform where anyone can rent house within a few seconds where Landlords can post about their empty houses.
 
 ## **Technology: Html, CSS, Bootstrap, JavaScript, PHP, Laravel Framework
 ## **Database: MySQL
 
 <ul>
 <h2>Core Features:</h2> 
-    <li><b>Multiauth role</b></li>
+    <li><b>Multiauth role (Admin/ Landlord/ Renter)</b></li>
     <li><b>Booking System</b> (house booking)</li>
     <li>Google Login using Socialite Package</li>
     <li><b>SMS</b> System (When booking is confirmed by admin then confirmation sms sends to renter)</li>
@@ -13,7 +13,7 @@
     <li>Price Filter (search a house using price range)</li>
     <li>Admin, Landlord, Renter Panel </li>
     <li><b>Email Verification</b>, Forget Password, Reset Passwrod</li>
-    <li>Manage landlord, renter by admin</li>
+    <li>Landlord and Renter are supervised by admin</li>
     <li>Booking history</li>
     <li>Cancel Booking Request</li>
     <li>Awesome overview show in <b>Dashboard</b></li>
@@ -42,9 +42,9 @@
 <ul>
 <h2>Landlord Panel</h2>
 <li>Sign in/ sign out.</li>
-<li>Landlord can create, edit, delete area (own created)</li>
+<li>Landlord can create, edit, delete <b>Area</b> (own created)</li>
 <li>Landlord can view all areas.</li>
-<li>Landlord can add, edit, delete his owm created house. </li>
+<li>Landlord can add, edit, delete his owm created <b>house</b>. </li>
 <li>Landlord can see his own created houses information.</li>
 <li>Landlord can handle the status of his houses (available or not available)</li>
 <li>Landlord can change his profile information</li>
